@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Blockchain's Smart Contract Development in Solidity
 - 💞️ I’m looking to collaborate on Solidity Projects
-- 📫 How to reach me ...
+- 📫 I can be contacted at malik.saqib@rnssol.com
 
 <!---
 MalikSaqibIftikhar/MalikSaqibIftikhar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
